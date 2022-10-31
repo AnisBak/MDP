@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lesson4_homework</string>
+    <string name="enter_android_version">Enter Android Version</string>
+    <string name="enter_android_code_name">Enter Android Code Name</string>
+    <string name="add">ADD</string>
+    <string name="_13">13</string>
+    <string name="tiramisu">Android 13</string>
+    <string name="snow_cone">Android 12</string>
+    <string name="_12">12</string>
+</resources>
