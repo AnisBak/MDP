@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.anis.lesson5_homework"
+        applicationId "com.anis.lesson6_homework_problem1"
         minSdk 24
         targetSdk 32
         versionCode 1
@@ -29,7 +29,9 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
-
+    buildFeatures {
+        viewBinding true
+    }
 }
 
 dependencies {

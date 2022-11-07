@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lesson6_homework_problem1</string>
+    <string name="first_question">1. Kotlin is a JVM based language developed by Apple</string>
+    <string name="second_question">2. Null Safety in Kotlin is to eliminate the risk of occurrence of
+NullPointerException in real time</string>
+    <string name="true_answer">True</string>
+    <string name="false_answer">False</string>
+    <string name="dont_know">Don\'t know</string>
+    <string name="btn_reset">reset</string>
+</resources>
